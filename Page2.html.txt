@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <header>
+  <h1>Yums Restaurant</h1>
+    
+<nav>
+  <a herf = "index.html"><button>Home</button>
+<a href="Page1.html"><button>Menu</button></a>
+<a href="Page2.html"><button>Specials</button></a>
+<a href="Page3.html"><button>Maps</button></a>
+</nav>
+</header>
+  <br>
+  <h3>Special qualities' in a person can range from skills, talents or the ability to do something truly unique. From a young age, we are encouraged to inculcate a few of these abilities into our lives. Amid the hustle and bustle of everyday life, it is easy to forget we still possess those qualities.</h3>
+ 
+</body>
+</html>

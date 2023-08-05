@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <header>
+  <h1>Yums Restaurant</h1>
+<nav>
+  <a herf = "index.html"><button>Home</button>
+<a href="Page1.html"><button>Menu</button></a>
+<a href="Page2.html"><button>Specials</button></a>
+<a href="Page3.html"><button>Maps</button></a>
+</nav>
+</header>
+  
+<h2>Lunch</h2>
+  <h3>Why eat lunch? Lunch is an important meal for everyone. It provides energy and nutrients to keep the body and brain working efficiently through the afternoon. A packed lunch made at home can be a healthy and delicious choice and gives you control over the foods and ingredients included.</h3>
+  <h2>Dinner</h2>
+  <h3>Dinner usually refers to what is in many Western cultures the largest and most formal meal of the day. Historically, the largest meal used to be eaten around midday, and called dinner. Especially among the elite, it gradually migrated to later in the day over the 16th to 19th centuries.</h3>
+  <h2>Sushi</h2>
+  <h3>Sushi is a Japanese dish that features medium-grained rice cooked in vinegar, served with raw or cooked seafood and a variety of toppings or fillings. Contrary to popular belief, rice is the main component of sushi, not raw fish.</h3>
+  <br>
+  <br>
+</body>
+</html>
+  

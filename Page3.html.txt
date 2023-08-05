@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+  
+
+<body>
+  <header>
+  <h1>Yums Restaurant</h1>
+<nav>
+<a href="Page1.html"><button>Menu</button></a>
+<a href="Page2.html"><button>Specials</button></a>
+<a href="Page3.html"><button>Maps</button></a>
+</nav>
+</header>
+</body>
+</html>

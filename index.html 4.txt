@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<header>
+  <h1>Yums Restaurant</h1>
+<nav>
+  <a herf = "index.html"><button>Home</button>
+<a href="Page1.html"><button>Menu</button></a>
+<a href="Page2.html"><button>Specials</button></a>
+<a href="Page3.html"><button>Maps</button></a>
+</nav>
+</header>
+
+    <img src = Bread.jpeg>
+  <div class = rightman>
+  <h1 >Yums Ultra
+    extremely Japanese
+  Breadness </h1>
+  </div>
+    
+    <script src="script.js"></script>
+
+    
+</body>
+
+</html>
